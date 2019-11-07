@@ -1,0 +1,3 @@
+referensi CI rest : https://www.codepolitan.com/rest-api-server-sederhana-dengan-codeigniter-58901f324a29f
+
+https://www.bewoksatukosong.com/2019/06/cara-membuat-rest-api-server-codeigniter-mysql-2019.html
